@@ -1,0 +1,257 @@
+@media(max-width: 1774.98px){
+.hot{
+    left: auto;
+    right: 0;
+}
+}
+@media(max-width: 1199.98px){
+   .block-common{
+    max-width: 984px;
+   }
+   .hot{
+       position: unset;
+       max-width: 1104px;
+       margin: 0 auto;
+       display: flex;
+       justify-content: center;
+   }
+   .col-item{
+       padding-top: 0;
+       text-align: center;
+       margin-bottom: 40px;
+   }   
+   .welcome{
+       padding-bottom: 75px;
+   }
+   .insta{
+       margin-top: 50px;
+       text-align: center;
+   }
+}
+@media(max-width: 991.98px){
+    .block-right p{
+        margin: 25px 0 10px;
+    }
+    .block-common{
+        max-width: 690px;
+           }
+    form{
+        max-width: 478px;
+    }
+    header h1{
+    font-size: 60px;
+    }
+    form{
+        margin: 38px 0 15px;
+    }
+    .kudra{
+        padding: 10px !important;
+    }
+    .kudi-right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    }
+    .welcome{
+       padding-top: 300px;
+    }
+    .fitness .col-xl-4:last-child{
+        margin-top: 45px;
+    }
+    .free-left h4{
+        font-size: 40px;
+    }
+    .free-right .iphone{
+        font-size: 40px;
+        margin-bottom: 40px;
+    }
+}
+@media(max-width: 767.98px){
+    header h1{
+        font-size: 45px;
+        margin-top: 115px;
+        }
+        header{
+            padding: 32px 0 310px;
+        }
+        form{
+            max-width: 400px;
+            padding: 0 15px;
+        }
+        form input{
+            max-width: 130px;
+        }
+        select{
+            max-width: 130px;
+        }
+        .block-common{
+            max-width: 585px;
+        }
+        .block-right p{
+            font-size: 18px;
+        }
+        .block-right h2{
+            font-size: 23px;
+        }
+        .hot img{
+            width: 100%;
+        }
+        .personal h4{
+            font-size: 55px;
+        }
+        .personal h1{
+            font-size: 30px;
+        }
+        .personal{
+            padding: 103px 0;
+        }
+        .free{
+            flex-direction: column;
+        }
+        .free-left,
+        .free-right{
+            width: 100%;
+        }
+        footer .row{
+            flex-direction: column;
+        }
+        footer form{
+            padding: 0;
+        }
+        .lol{
+          width: 100%;
+        }
+        .lol h1{
+            text-align: center;
+        }
+        .lol .pipi{
+            text-align: center;
+        }
+        .follow{
+            justify-content: center;
+        }
+        footer form{
+            margin: 0 auto;
+        }
+        .sus{
+            justify-content: center;
+        }
+        .blogs{
+            text-align: center;
+            margin-top: 50px;
+        }
+        .blogs-item{
+            justify-content: unset;
+        }
+        footer .row .col-xl-3{
+            margin: 0 auto;
+        }
+}
+@media(max-width: 575.98px){
+    .block-left{
+        display: flex;
+        justify-content: center;
+    }
+    .block-left img{
+        width: 50%;
+    }
+    header h1 {
+        font-size: 30px;
+        text-align: center;
+        margin-top: 48px;
+    }
+    header p{
+        font-size: 12px;
+        text-align: center;
+    }
+    .block-common{
+        justify-content: center;
+        flex-direction: column;
+        z-index: 1;
+    }
+    .get{
+        margin: 0 auto;
+        font-size: 10px;
+    }
+    .col-item{
+        margin-top: 300px;
+    }
+    .title{
+        font-size: 25px;
+    }
+    form .get{
+        margin-bottom: 15px;
+    }
+    .welcome{
+        padding-top: 327px;
+    }
+    .lala{
+        display: table;
+    }
+    .block-common .get{
+        margin: 15px auto;
+    }
+    .fitness .row{
+        flex-direction: column;
+    }
+    .fitness .col-xl-4{
+       width: 75%;
+       margin: 0 auto;
+    }
+    .fitness .col-xl-4:nth-child(2){
+        margin-top: 45px;
+    }
+    .title{
+        text-align: center;
+    }
+    .fitness .text{
+        text-align: center;
+    }
+    .fitness .col-xl-4{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    .personal h4{
+        font-size: 30px;
+        margin: 20px 0 35px;
+    }
+    .personal h1{
+        font-size: 22px;
+    }
+    .personal{
+        padding: 70px 0 40px;
+    }
+    .expert-item img{
+       width: 75%; 
+    }
+    .kex{
+        text-align: center;
+    }
+    .free-left h1,
+    .free-right h1{
+        font-size: 16px;
+    }
+    .free-left h4{
+        font-size: 30px;
+    }
+    .free-right .iphone{
+        font-size: 30px;
+    }
+    .insta-item{
+        max-width: 255px;
+        margin: 36px auto 16px;
+    }
+    .follow p{
+        margin-right: 5px;
+    }
+    .follow .fa{
+        margin: 0 3px;
+    }
+    footer{
+        padding-top: 50px;
+    }
+  
+}
